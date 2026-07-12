@@ -1,0 +1,17 @@
+﻿cff-version: 1.2.0
+message: "Please cite this software using the metadata below."
+title: "lss-sbi-lab: A controlled benchmark for robust large-scale-structure simulation-based inference"
+version: 0.1.0
+date-released: 2026-07-12
+authors:
+  - family-names: "Das"
+    given-names: "Pratyush Kumar"
+    orcid: "https://orcid.org/0000-0002-4326-8598"
+repository-code: "https://github.com/pkd-45/lss-sbi-lab"
+license: MIT
+keywords:
+  - simulation-based inference
+  - large-scale structure
+  - cosmology
+  - posterior calibration
+  - galaxy bias
