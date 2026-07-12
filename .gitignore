@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Environments
+.venv/
+venv/
+env/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated/heavy model artefacts
+*.pt
+results/**/training_dataset*.npz
+results/**/diagnostics*.npz
+results/**/robust_diagnostics*.npz
+results/**/final_test_log.txt

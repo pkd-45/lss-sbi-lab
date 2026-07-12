@@ -1,0 +1,5 @@
+1. Extract this ZIP so the folder becomes D:\work\job\lss-sbi-lab
+2. Open PowerShell in that folder.
+3. Run: .\run_tests_windows.ps1
+4. Confirm the output ends with: Ran 8 tests ... OK
+5. Review README.md and RESULTS.md before uploading to GitHub.
